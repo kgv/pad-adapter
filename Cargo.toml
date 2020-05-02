@@ -1,0 +1,13 @@
+[package]
+name = "pad-adapter"
+version = "0.1.0"
+authors = ["kgv <kgv@users.noreply.github.com>"]
+license = "MIT OR Apache-2.0"
+description = "A utility crate that provides pad adapter."
+homepage = "https://crates.io/crates/pad-adapter"
+documentation = "https://docs.rs/pad-adapter"
+repository = "https://github.com/kgv/pad-adapter"
+readme = "README.md"
+keywords = ["adapter", "aligned", "pad", "tabs", "whitespace"]
+categories = ["no-std", "rust-patterns", "value-formatting"]
+edition = "2018"
